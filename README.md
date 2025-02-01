@@ -10,7 +10,7 @@ A library that provides Design by Contract like APIs to ensure functions adhere 
 
 A library that facilitates object creation and event handling, providing essential infrastructure for addons.
 
-#### [SettingsGenerator](https://github.com/Eyal-WowHub/SettingsGenerator)
+#### [AddonConfig](https://github.com/Eyal-WowHub/AddonConfig)
 
 A library that generates addon settings from a template.
 
