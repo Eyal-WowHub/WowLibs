@@ -16,11 +16,11 @@ A library that provides character and realm information.
 
 #### [Contracts](https://github.com/Eyal-WowHub/Contracts)
 
-A library that provides Design by Contract like APIs to ensure functions adhere to specific preconditions and postconditions.
+A library that provides Design by Contract like API to ensure functions adhere to specific preconditions and postconditions.
 
 #### [TooltipBuilder](https://github.com/Eyal-WowHub/TooltipBuilder)
 
-A library that provides a fluent interface to the GameTooltip APIs, making it easier to manage tooltip lines and customize their appearance.
+A library that provides a fluent interface to the GameTooltip API, making it easier to manage tooltip lines and customize their appearance.
 
 #### [UnitTest](https://github.com/Eyal-WowHub/UnitTest)
 
